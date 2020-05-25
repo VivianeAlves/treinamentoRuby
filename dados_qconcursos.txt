@@ -1,0 +1,90 @@
+Banca: CESPE, Ano: 2018 
+ 1. Português 25 questões      : Geral 
+ 1.1 Pontuação  5 questões  
+ 1.2 Uso da Vírgula  4 questões  
+ 1.3 Uso das aspas  1 questão  
+ 1.4 Parênteses  1 questão  
+ 1.5 Travessão  1 questão  
+ 1.6 Interpretação de Textos  16 questões  
+ 1.7 Tipologia Textual e Tipos de Discurso: direto, indireto e indireto livre.  1 questão  
+ 1.8 Significação Contextual de Palavras e Expressões. Sinônimos e Antônimos.  2 questões  
+ 1.9 Coesão e coerência  2 questões  
+ 1.10 Redação - Reescritura de texto  4 questões  
+ 1.11 Crase  1 questão  
+ 1.12 Sintaxe  1 questão  
+ 1.13 Regência  1 questão  
+ 1.14 Morfologia - Pronomes  1 questão  
+ 1.15 Morfologia - Verbos  1 questão  
+ 1.16 Colocação Pronominal  1 questão  
+ 1.17 Locução Verbal  1 questão  
+ 1.18 Noções Gerais de Compreensão e Interpretação de Texto  7 questões  
+ 2. Raciocínio Lógico 19 questões      : Geral 
+ 2.1 Fundamentos de Lógica  6 questões  
+ 2.2 Proposições Simples e Compostas e Operadores Lógicos  3 questões  
+ 2.3 Tabelas-Verdade, Tautologia, Contradição e Contingência  3 questões  
+ 2.4 Lógica de Argumentação - Diagramas e Operadores Lógicos  2 questões  
+ 2.5 Implicação Lógica  2 questões  
+ 2.6 Diagramas de Venn (Conjuntos)  4 questões  
+ 2.7 Problemas Lógicos  1 questão  
+ 2.8 Sequências Lógicas de Números, Letras, Palavras e Figuras  4 questões  
+ 3. Matemática 6 questões      : Geral 
+ 3.1 Análise Combinatória  3 questões  
+ 3.2 Probabilidade  3 questões  
+ 4. Engenharia de Software 21 questões      : Especifica 
+ 4.1 Métricas de Software  3 questões  
+ 4.2 Teste de Software  3 questões  
+ 4.3 Orientação a Objetos  4 questões  
+ 4.4 Análise de Pontos de Função  3 questões  
+ 4.5 XP (eXtreme Programming)  1 questão  
+ 4.6 Engenharia de Requisitos  3 questões  
+ 4.7 Outros modelos de Processo de Software  1 questão  
+ 4.8 UML  2 questões  
+ 4.9 Processos de Software - Desenvolvimento Ágil  6 questões  
+ 4.10 Scrum  4 questões  
+ 4.11 Processos de Software  1 questão  
+ 4.12 Diagrama de Casos de Uso  1 questão  
+ 5. Algoritmos e Estrutura de Dados 8 questões      : Especifica 
+ 5.1 Algoritmos  7 questões  
+ 5.2 Conceitos Básicos e Algoritmos  4 questões  
+ 5.3 Algoritmos de Busca  1 questão  
+ 5.4 Algoritmos de Ordenação  2 questões  
+ 5.5 Estrutura de Dados  1 questão  
+ 5.6 Listas  1 questão  
+ 6. Arquitetura de Software 8 questões      : Especifica 
+ 6.1 MVC (Model-view-controller)  1 questão  
+ 6.2 SOA (Service-oriented architecture)  2 questões  
+ 6.3 WebServices  1 questão  
+ 6.4 SOAP (Simple Object Access Protocol)  1 questão  
+ 6.5 Usabilidade  3 questões  
+ 7. Segurança da Informação 4 questões      : Especifica 
+ 7.1 Criptografia  2 questões  
+ 7.2 Análise de Vulnerabilidade e Gestão de Riscos  1 questão  
+ 7.3 Segurança na Internet  1 questão  
+ 7.4 Autenticação  1 questão  
+ 7.5 Infra estrutura de Chaves Publicas (PKI)  2 questões  
+ 8. Programação 2 questões      : Especifica 
+ 8.1 HTML (HyperText Markup Language)  1 questão  
+ 8.2 Linguagens de marcação  1 questão  
+ 8.3 Programação Orientada a Objetos  1 questão  
+ 9. Governança de TI 7 questões      : Especifica 
+ 9.1 ITIL  3 questões  
+ 9.2 ISO-IEC 12207  1 questão  
+ 9.3 Gerência de Processos  1 questão  
+ 9.4 CMMI (Capability Maturity Model Integration)  2 questões  
+ 9.5 ITIL v. 3  3 questões  
+ 10. Banco de Dados 3 questões      : Especifica 
+ 10.1 Banco de Dados  1 questão  
+ 10.2 SQL  2 questões  
+ 11. Sistemas Operacionais 5 questões      : Especifica 
+ 11.1 Cloud Computing  5 questões  
+ 12. Redes de Computadores 8 questões      : Especifica 
+ 12.1 DNS (Domain Name System)  3 questões  
+ 12.2 QoS  1 questão  
+ 12.3 Firewall  3 questões  
+ 12.4 Protocolo  3 questões  
+ 12.5 MPLS  1 questão  
+ 12.6 NAT (Network Address Translation)  1 questão  
+ 12.7 IP (Internet Protocol)  1 questão  
+ 12.8 Protocolos de Roteamento: RIP, BGP e OSPF  2 questões  
+ 13. Arquitetura de Computadores 3 questões      : Especifica 
+ 13.1 Sistemas de Arquivos  3 questões  

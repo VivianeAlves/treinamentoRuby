@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="CompassSettings">
+    <option name="compassExecutableFilePath" value="C:/Ruby25/lib/ruby/gems/2.5.0/gems/compass-0.12.2/bin/compass" />
+  </component>
+  <component name="ModuleRunConfigurationManager">
+    <shared />
+  </component>
+  <component name="NewModuleRootManager">
+    <orderEntry type="jdk" jdkName="ruby-2.5.5-p157" jdkType="RUBY_SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
