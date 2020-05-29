@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47694652-fda9-42b5-bde0-7d20c62484e4" name="Default Changelist" comment="" />
+    <list default="true" id="47694652-fda9-42b5-bde0-7d20c62484e4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cine_underground.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cine_underground.rb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +38,7 @@
     <SUITE FILE_PATH="coverage/treinamentorRuby@hash.rcov" NAME="hash Coverage Results" MODIFIED="1573660280240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="treinamentorRuby" />
     <SUITE FILE_PATH="coverage/treinamentoRuby@qconcursos_scraping.rcov" NAME="qconcursos_scraping Coverage Results" MODIFIED="1590122396516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="treinamentorRuby" />
     <SUITE FILE_PATH="coverage/treinamentoRuby@analise_texto.rcov" NAME="analise_texto Coverage Results" MODIFIED="1589848804038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="treinamentorRuby" />
-    <SUITE FILE_PATH="coverage/treinamentoRuby@cine_underground.rcov" NAME="cine_underground Coverage Results" MODIFIED="1590369660115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="treinamentorRuby" />
+    <SUITE FILE_PATH="coverage/treinamentoRuby@cine_underground.rcov" NAME="cine_underground Coverage Results" MODIFIED="1590524859961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="treinamentorRuby" />
     <SUITE FILE_PATH="coverage/treinamentoRuby@analise_textual.rcov" NAME="analise_textual Coverage Results" MODIFIED="1590080081585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="treinamentorRuby" />
     <SUITE FILE_PATH="coverage/treinamentoRuby@matriz.rcov" NAME="matriz Coverage Results" MODIFIED="1585066022738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="treinamentorRuby" />
     <SUITE FILE_PATH="coverage/treinamentoRuby@abreviacao.rcov" NAME="abreviacao Coverage Results" MODIFIED="1585068510164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="treinamentorRuby" />
@@ -95,26 +98,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cine_underground.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/google_search_scraping.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="26" column="55" lean-forward="true" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -135,6 +119,9 @@
       <find>gestão</find>
       <find>materia</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -218,6 +205,11 @@
       <recent name="C:\Users\Viviane Alves\RubymineProjects\treinamentoRuby\lib" />
       <recent name="C:\Users\Viviane Alves\RubymineProjects\treinamentoRuby" />
     </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="ri --server" />
+    </option>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -407,11 +399,14 @@
       <workItem from="1590359092827" duration="379000" />
       <workItem from="1590364853693" duration="48000" />
       <workItem from="1590368406199" duration="2132000" />
+      <workItem from="1590513768848" duration="396000" />
+      <workItem from="1590524414882" duration="1075000" />
+      <workItem from="1590529910863" duration="498000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128226000" />
+    <option name="totallyTimeSpent" value="130195000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -425,7 +420,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22919819" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24054463" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -626,13 +621,6 @@
     <entry file="file://$PROJECT_DIR$/textanalyze.rb" />
     <entry file="das://55f581f1-3f76-4d65-9d9f-e63d6318160c/database/qconcursos/schema/public/table/assunto.sql" />
     <entry file="file://$PROJECT_DIR$/analise_textual.rb" />
-    <entry file="file://$PROJECT_DIR$/bd.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/captura_urls_db.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -661,13 +649,6 @@
       </provider>
     </entry>
     <entry file="das://55f581f1-3f76-4d65-9d9f-e63d6318160c/database/qconcursos/schema/public/table/materia.sql" />
-    <entry file="file://$PROJECT_DIR$/classificacao_conteudo.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="29" column="77" lean-forward="true" selection-start-line="29" selection-start-column="77" selection-end-line="29" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
     <entry file="das://55f581f1-3f76-4d65-9d9f-e63d6318160c/database/qconcursos/schema/public/table/materias">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
@@ -696,17 +677,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cine_underground.rb">
+    <entry file="file://$PROJECT_DIR$/google_search_scraping.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        <state relative-caret-position="257">
+          <caret line="29" column="39" lean-forward="true" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/google_search_scraping.rb">
+    <entry file="file://$PROJECT_DIR$/cine_underground.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="26" column="55" lean-forward="true" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
+        <state relative-caret-position="46">
+          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bd.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classificacao_conteudo.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
